@@ -1,0 +1,137 @@
+{
+  "veggies": [
+    {
+      "id": 1,
+      "name": "Carrot",
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "name": "Potato",
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "name": "Spinach",
+      "stock": 30
+    },
+    {
+      "id": 4,
+      "name": "Lettuce",
+      "stock": 25
+    },
+    {
+      "id": 5,
+      "name": "Pepper",
+      "stock": 18
+    }
+  ],
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "stock": 18
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "stock": 35
+    },
+    {
+      "id": 4,
+      "name": "Grape",
+      "stock": 22
+    },
+    {
+      "id": 5,
+      "name": "Strawberry",
+      "stock": 28
+    }
+  ],
+  "meats": [
+    {
+      "id": 1,
+      "name": "Beef",
+      "stock": 15
+    },
+    {
+      "id": 2,
+      "name": "Chicken",
+      "stock": 25
+    },
+    {
+      "id": 3,
+      "name": "Lamb",
+      "stock": 12
+    },
+    {
+      "id": 4,
+      "name": "Pork",
+      "stock": 20
+    },
+    {
+      "id": 5,
+      "name": "Turkey",
+      "stock": 18
+    }
+  ],
+  "cheeses": [
+    {
+      "id": 1,
+      "name": "Cheddar",
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "Mozzarella",
+      "stock": 14
+    },
+    {
+      "id": 3,
+      "name": "Parmesan",
+      "stock": 8
+    },
+    {
+      "id": 4,
+      "name": "Swiss",
+      "stock": 12
+    },
+    {
+      "id": 5,
+      "name": "Gouda",
+      "stock": 9
+    }
+  ],
+  "tomatoes": [
+    {
+      "id": 1,
+      "name": "Cherry Tomato",
+      "stock": 40
+    },
+    {
+      "id": 2,
+      "name": "Beefsteak Tomato",
+      "stock": 30
+    },
+    {
+      "id": 3,
+      "name": "Roma Tomato",
+      "stock": 20
+    },
+    {
+      "id": 4,
+      "name": "Heirloom Tomato",
+      "stock": 15
+    },
+    {
+      "id": 5,
+      "name": "Grape Tomato",
+      "stock": 25
+    }
+  ]
+}
